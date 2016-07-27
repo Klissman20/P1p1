@@ -9,14 +9,6 @@ package p1p1;
  *
  * @author Laura
  */
-public class P1p1 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hola github V2.0");
-        
-    }
+public class NewClass {
     
 }
